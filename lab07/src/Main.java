@@ -12,7 +12,7 @@ public class Main {
         System.out.println("4 - wyświetlenie wszystkich aktualnych ofert sprzedaży mieszkań");
         System.out.println("5 - wyświetlenie wszystkich aktualnych ofert sprzedaży domów, w danej miejscowości, o powierzchni nie mniejszej niż podana wartość");
         System.out.println("6 - wyświetlenie wszystkich aktualnych ofert sprzedaży mieszkań, w danej miejscowości, nie droższych niż podana wartość i od podanego piętra wzwyż");
-        System.out.println("7 - dodanie 5 domów i 7 mieszkań d ooferty");
+        System.out.println("7 - dodanie 5 domów i 7 mieszkań do oferty");
         System.out.println("8 - zakończenie działania programu\n");
     }
     private static void opcja1(ListaOfert listaOfert, Scanner scan) {
